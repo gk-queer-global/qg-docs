@@ -46,14 +46,17 @@ Certain aspects of our architecture are planned, but taking a back seat to our c
 The following repositories house the Queer Global codebase:
 
 - [Artwork Microservice](https://github.com/QueerGlobal/qg-artwork-api) - Service for handling artwork uploaded by Queer Global users.
-- [Events Microservice](https://github.com/QueerGlobal/qg-events-api) - Service handling Events caused by Queer Global
-- [Locations Microservice](https://github.com/QueerGlobal/qg-locations-api) - Service for handling locations associated with people, resources, events, and businesses in the Queer Global System
-- [Person Microservice](https://github.com/QueerGlobal/qg-person-api) - Microservice for managing people in the Queer Global system
-- [Profile Microservice](https://github.com/QueerGlobal/qg-profile-api) - Microservices for managing profiles of users in the Queer Global system
-- [Resources Microservice](https://github.com/QueerGlobal/qg-resources-api) - Microservice for managing resources in the Queer Global service
-- [Rolebased Auth Microservice](https://github.com/QueerGlobal/qg-rolebased-auth-api) - Microservice for managing authorization roles
-- [Search API](https://github.com/QueerGlobal/qg-search-api) - Microservice for handling search requests and responses, and for registering entites for search
-- [Subscriptions API](https://github.com/QueerGlobal/qg-subscription-api) Microservice for managing subscriptions in the Queer Global system
+
+Planned services (not yet public):
+
+- Events Microservice - Service handling Events caused by Queer Global
+- Locations Microservice - Service for handling locations associated with people, resources, events, and businesses in the Queer Global System
+- Person Microservice - Microservice for managing people in the Queer Global system
+- Profile Microservice - Microservices for managing profiles of users in the Queer Global system
+- Resources Microservice - Microservice for managing resources in the Queer Global service
+- Rolebased Auth Microservice - Microservice for managing authorization roles
+- Search API - Microservice for handling search requests and responses, and for registering entites for search
+- Subscriptions API - Microservice for managing subscriptions in the Queer Global system
 
 ### Languages
 
