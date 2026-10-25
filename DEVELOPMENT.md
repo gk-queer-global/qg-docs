@@ -54,7 +54,7 @@ staging, or there's some weird unanticipated side effect, we'll create a new iss
 first crack at it.
 8. **We: deploy to production**
 If everything looks great on staging, then we'll push the code to production within two weeks.  And with that, your code
-is be running live on [Queer Global](https://queerglobal.com)!
+will be part of Queer Global!
 
 ## Getting Queer Global Up and Running Locally
 

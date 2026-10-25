@@ -74,7 +74,7 @@ Note: Any work should be tested in the latest stable versions of Chrome, FireFox
 
 Note: If the testing is for a bug fix or verification, the work should be tested on both a Windows and Mac machine.
 
-Note: QA testing will possibly be done as a group. If so all work can be documented for each person [here](https://docs.google.com/spreadsheets/u/1/d/1xlDfIMQn_NXb4PbE8QkncdGxw6H-h9RGGHn8_45z5r4/edit).
+Note: QA testing will possibly be done as a group. If so, maintainers will share where group QA notes should be recorded.
 
 ---
 
@@ -281,8 +281,7 @@ Note: (TODO) Add images of each of the GitHub opticons for reference
 
 References:
 
--   [Slack Pin of Jenna's Image File Naming Tips](https://queerglobalworkspace.slack.com/archives/C02ERKM3QDQ/p1683679778136169)
 -   [IEEE 829 Test Plan Example, _Ecommerce Website Cross Browser Testing Test Plan_](https://docs.google.com/document/d/1F1TUX5BkviRbw8auI2Xq2K2wyGTS-Ag14DRymiELmzc/edit)
--   [Accessibility Conformance Report, 2018, _Information Technology Industry Council_](https://www.fdic.gov/about/doing-business/acquisition/acr.pdf)
+-   Accessibility Conformance Report, 2018, _Information Technology Industry Council_
 -   [Semantic Versioning, _Wikipedia_](https://en.wikipedia.org/wiki/Software_versioning#Semantic_versioning)
 -   [Keep A Changelog](https://keepachangelog.com/en/1.1.0/)
